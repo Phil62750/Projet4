@@ -12,6 +12,9 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
+.texte2 p{
+    font-size: 35px;
+}
 .col-sm-12 p{
 font-size: 18px;
 font-family: helvetica;
